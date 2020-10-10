@@ -1,0 +1,17 @@
+
+1.Throughput : kecepatan rata-rata yang diterima oleh suatu node dalam selang waktu pengamatan tertentu.
+       rumus : jumlah data yg dikirim/waktu pengiriman x 8
+             : 4098166/60065 x 8
+             : 545 k bit/s
+
+2.packet loss : 0%
+
+3. delay : total delay = 83651
+           rata2 delay = total delay/jumlah paket-1
+                       = 83651/4840
+                       = 17,2832
+
+4. jitter : total jitter = 134
+            rata2 jitter = total jitter/jumlah paket-1
+                         = 134/4840
+                         = 0,0276
